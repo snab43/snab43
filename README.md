@@ -1,4 +1,4 @@
-### snaber 🛸🌕
+# snaber 🛸🌕
 
 Hi, I mostly make web games. I prefer using pure HTML, CSS, and JS. Although SASS is pretty neat.
 
